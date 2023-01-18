@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold; 
+}
+
+strong {
+    text-shadow: 5px 5px 5px khaki;
+}
+
+.writer {
+    font-size: 5;
+    font-style: italic;
+    color: rgb(255, 142, 4);
+}
+
+.content {
+    font-size: 10;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
